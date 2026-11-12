@@ -1,0 +1,19 @@
+# IDE
+.idea/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 敏感信息
+.env
+
+# 运行输出
+runs/
+*.log
