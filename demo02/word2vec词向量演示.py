@@ -86,10 +86,10 @@ if __name__ == "__main__":
     # dm01_train_save()
 
     # 2、测试：加载模型并预测
-    #dm02_get_word_vec()
+    dm02_get_word_vec()
 
     # 3、测试：查看单词的相似度
     #dm03_get_similarity()
 
     # 4、测试：模型超参设定
-    dm04_set_hyper_parameter()
+    #dm04_set_hyper_parameter()
