@@ -64,7 +64,7 @@ def dm03_get_similarity():
 
 # 实现：模型超参数设定
 def dm04_set_hyper_parameter():
-    # 1、直接训练，使用默认参数
+    # 1、直接训练，使用默认参数（就是skipgram）
     # mys_model = fasttext.train_unsupervised("data/wh02ad")
 
     # 2、手动调整参数
